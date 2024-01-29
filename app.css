@@ -1,6 +1,6 @@
 body {
     justify-content: center;
-    background-color: darkslateblue;/* Set a background color for the body */
+    background-color: rgb(75, 19, 135);/* Set a background color for the body */
     align-items: center;
     height: 100vh;
     display: flex;

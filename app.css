@@ -1,13 +1,13 @@
 body {
     justify-content: center;
-    background-color: rgb(109, 144, 201);/* Set a background color for the body */
+    background-color: orchid (109, 144, 201);/* Set a background color for the body */
     align-items: center;
     height: 100vh;
     display: flex;
   }
   
   h1 {
-    font-size: 15rem; /* Set the font size for h1 */
+    font-size: 13rem; /* Set the font size for h1 */
     font-family: Baskerville;    
   }
   

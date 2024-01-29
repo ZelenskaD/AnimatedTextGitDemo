@@ -1,0 +1,16 @@
+body {
+    justify-content: center;
+    background-color: #060606; /* Set a background color for the body */
+    align-items: center;
+    height: 100vh;
+    display: flex;
+  }
+  
+  h1 {
+    font-size: 15rem; /* Set the font size for h1 */
+    font-family: Baskerville;    
+  }
+  
+  .letter{
+    transition: color 1000ms;
+  }

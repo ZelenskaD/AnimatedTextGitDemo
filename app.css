@@ -1,6 +1,6 @@
 body {
     justify-content: center;
-    background-color: orchid (109, 144, 201);/* Set a background color for the body */
+    background-color: orchid;/* Set a background color for the body */
     align-items: center;
     height: 100vh;
     display: flex;
